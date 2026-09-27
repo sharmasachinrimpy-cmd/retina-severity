@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+retina_env/
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/raw/
+data/processed/
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
